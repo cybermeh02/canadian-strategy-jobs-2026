@@ -1,0 +1,73 @@
+name: Add Job Listing
+description: Submit a new job listing to the board
+title: "[New Job] "
+labels: ["new-listing"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: e.g. Google, McKinsey, Wealthsimple
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role Title
+      placeholder: e.g. Strategy & Operations Manager
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: e.g. Toronto, ON / Remote, Canada
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Strategy
+        - Strategy & Ops
+        - Marketing Strategy
+        - Growth / GTM
+        - Product Marketing
+        - Business Ops
+        - Biz Dev
+        - Community
+        - Ecosystem
+        - Ecosystem / Community
+        - Ecosystem / Marketing
+        - Events / Community
+        - Platform & Ops
+        - VC / Strategy
+        - Marketing / Biz Dev
+        - Marketing / Strategy
+        - Accelerator / Program
+    validations:
+      required: true
+  - type: input
+    id: apply_link
+    attributes:
+      label: Apply Link
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Company Type
+      options:
+        - Consulting (MBB + Deloitte)
+        - Financial Services
+        - FAANG & Big Tech
+        - Big Tech Adjacent & High-Growth
+        - Growth & GTM Strategy
+        - Accelerators & Incubators
+        - VC Portfolio Companies
+        - Venture Capital & Ecosystem
+        - Canadian Startups
+    validations:
+      required: true
