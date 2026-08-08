@@ -84,28 +84,6 @@ Roles that can't be verified don't get a row.
 
 ---
 
-## 🗑️ Removed This Pass
-
-| Company | Role | Why |
-|---------|------|-----|
-| **Capital One** | Associate, Strategy Analyst — New Grad 2026 | **404 — posting no longer exists** |
-| **Capital One** | Associate, Strategy Analyst | **404 — posting no longer exists** |
-| **Wealthsimple** | Event Specialist (6-mo contract) | No longer on their board (38 → 37 open roles) |
-| **Creative Destruction Lab** | Program Manager, Event Planning & Operations | U of T posting: "This position is no longer available" |
-| **Cambio AI** | Business Operations Associate | Application deadline was **Aug 7** — now passed |
-
-### ⚠️ On Capital One
-
-Capital One rolled its campus cycle on **August 4**. Both roles previously on this board now 404, and the replacements are:
-
-- **Associate, Strategy Analyst — New Grad 2027** — Toronto, **$100,000** (up from $98K)
-- **Intern, Strategy Analyst — Summer 2027** — Toronto
-- **Associate, Process Management — New Grad 2027** — Toronto
-
-**The 2027 posting requires you to "Graduate in 2027 with a Master's or Bachelor's Degree."** A 2026 graduate is not eligible. Capital One's new-grad track is therefore closed for this cycle — the 2026 window shut before the roles were caught here. Recommendation: set a job alert on [capitalonecareers.ca](https://www.capitalonecareers.ca/) for the Strategy category, and watch for experienced-hire Associate postings, which appear off-cycle.
-
----
-
 # 🔍 Search These Boards
 
 ### Highest-Yield Sources
@@ -209,15 +187,15 @@ Capital One rolled its campus cycle on **August 4**. Both roles previously on th
 | Vancouver | 3 | Thin. No public VC portfolio boards; needs company-by-company checks |
 | Montreal | 1 | Thinnest. High churn |
 
-**Churn observed over 4 days (Aug 4 → Aug 8):** 5 roles removed, 1 added. Roughly a **20% expiry rate in under a week** — steeper than expected, and the reason re-verification matters more than adding volume.
+**Observed churn:** roughly **20% of listings expire within a week**, including campus roles that roll to the next graduating class without warning. Re-verification matters as much as adding new roles.
 
 ---
 
 ## 🔄 Maintenance
 
-Verified rows carry the date they were checked. **Re-verify anything older than ~1 week** — this pass found a 4-day-old board had already lost five roles, including its top match.
+Verified rows carry the date they were checked. **Re-verify anything older than ~1 week** — listings this board has tracked have gone dead in as little as four days.
 
-**Weekly refresh remains right**, but the priority is checking existing rows, not just adding new ones.
+**Weekly refresh remains right**, but the priority is checking existing rows, not just adding new ones. For campus and new-grad postings specifically, always re-read the stated graduation year: firms roll these to the next class without notice, and the new posting can look identical to the old one.
 
 **Never trust an aggregator snippet.** Indeed, Glassdoor, and Built In showed "hiring" for The51, Circle Cardiovascular, Attabotics, Symend, and Caseware when their live boards had zero matching openings.
 
