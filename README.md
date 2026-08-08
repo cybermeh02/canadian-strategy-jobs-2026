@@ -15,19 +15,62 @@ Roles that can't be verified don't get a row.
 
 ---
 
+# ⏰ Deadlines & Timing
+
+**Only one role on this board publishes a hard deadline.** Everything else is a rolling req — which is riskier than a deadline, not safer: rolling roles vanish without warning, and roughly **20% of listings here expire within a week**.
+
+### Hard deadline
+
+| Role | Cities | Deadline | Time left |
+|------|--------|----------|-----------|
+| **EY-Parthenon** — Consultant, Strategy & Execution | Toronto / Vancouver / Montreal | **October 1, 2026** | ~7.5 weeks |
+
+*Confirmed on the posting's own metadata (posted Jul 26, valid through Oct 1).*
+
+### Campus cycle dates — Class of 2027
+
+These are real deadlines, but the cohort is **2027 graduates**. As a 2026 grad you are not eligible. Listed so you know what's closing and why it isn't yours.
+
+| Firm | Closes | Cohort |
+|------|--------|--------|
+| McKinsey Canada — Business Analyst | Aug 11, 2026 | Class of 2027 |
+| KPMG Canada — all student postings | Sep 7, 2026 | Fall/Summer/Winter 2027 |
+| BCG — undergraduate | Window runs Jun–Oct 2026 | Class of 2027 |
+
+### Freshness of rolling roles
+
+With no published deadline, **posting age is the staleness signal.** Older reqs are likelier to close without notice.
+
+| Role | Posted | Age at Aug 8 |
+|------|--------|--------------|
+| Lightspeed — Strategy Analyst | Aug 1, 2026 | 1 week — freshest on the board |
+| Viggle — Growth & Community Intern | ~Jul 30, 2026 | ~9 days |
+| EY-Parthenon — Consultant | Jul 26, 2026 | 2 weeks |
+| Platform Calgary — Partnership Lead | Jun 17, 2026 | ~7 weeks |
+| Platform Calgary — Coordinator, Events | Jun 16, 2026 | ~8 weeks |
+| **Monitor Deloitte — Consultant, ER&I** | **Feb 3, 2026** | **~6 months** |
+| Passage — both roles | 30+ days ago | 1 month+ |
+| Viggle — Content Lead, Finance & Ops Manager | 30+ days ago | 1 month+ |
+
+> **On Monitor Deloitte's six-month-old posting:** a req live since February is either genuinely hard to fill or a perpetually-open pipeline role. Neither is a reason to skip it — it's the best-fit role on this board — but it does mean don't assume it'll wait. Apply before the EY deadline work, since EY at least tells you when it closes.
+
+**Everything else on this board has no published deadline and no visible posting date.** Treat all of it as capable of disappearing this week.
+
+---
+
 # ⭐ Top Matches
 
 *Verified live August 8, 2026.*
 
-| Company | Role | City | Pay | Why it fits | Apply |
-|---------|------|------|-----|-------------|:-----:|
-| **Monitor Deloitte** | Consultant — Energy, Resources & Industrials | **Calgary** / Toronto / Vancouver | **$68–102K** | Asks for **"1–3 years cumulative experience in a high-performance work environment and/or strategy consulting"** — squarely your band. MBA *preferred but not required*. Wants structured problem-solving in ambiguity, financial and business-case analysis, executive synthesis — maps onto JDC West, FCC design sprints and CEO briefs, and TD. Permanent, hybrid. **Requires a cover letter or the application is incomplete.** | [Apply](https://careers.deloitte.ca/job/ConsultantSenior-Consultant-Energy%2C-Resources-&Industrials-Monitor-Deloitte/132001-en_US) |
-| **Lightspeed** | Strategy Analyst | Montreal | — | 1–3 yrs listed under *"Even Better If You Have, But Not Necessary."* **English is the stated requirement; French is not.** Equity + pension. | [Apply](https://jobs.realventures.com/companies/quotemachine/jobs/88334889-strategy-analyst) |
-| **Forum Ventures** | Investment Analyst, Accelerator | Toronto / Remote | **CA$80–100K** + carry | Accelerator-side role — the closest match to Cultivator incubator experience. | [Apply](https://www.forumvc.com/careers?ashby_jid=89c1f503-8a88-42b9-8e04-862665505493) |
-| **EY-Parthenon** ⚠️ | Consultant, Strategy & Execution — Deal Management | Toronto / Vancouver / Montreal | **$88–108K** | Strategy consulting at EY's strategy arm. Deal/M&A flavour — integrations, carve-outs, synergy tracking. See the caveat below before applying. | [Apply](https://careers.ey.com/ey/job/Toronto-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Toronto%29-ON-M5H-0B3/1285426601/) |
-| **Thin Air Labs** | Delivery Support Specialist, Funding Catalyst | Calgary | — | **Bachelor's + 1–2 yrs.** Grant and non-dilutive funding work at a Calgary VC/advisory firm. | [Apply](https://www.thinairlabs.ca/careers/delivery-support-specialist) |
-| **Viggle** | Growth & Community Intern | Toronto | — | AI/ML video company (Golden Ventures, Series A). Growth + community in one role. | [Apply](https://jobs.ashbyhq.com/viggle/1d3c72e6-2e2c-4c70-9483-95c25fad394b) |
-| **Wealthsimple** | Growth Engagement Specialist (12-mo contract) | Remote, Canada | CA$69.6–87K | Growth + engagement in the marketing org at a top Canadian fintech. | [Apply](https://jobs.ashbyhq.com/wealthsimple/05d8dc58-a9c6-4a2f-96e9-014253b5de69) |
+| Company | Role | City | Pay | Timing | Why it fits | Apply |
+|---------|------|------|-----|--------|-------------|:-----:|
+| **Monitor Deloitte** | Consultant — Energy, Resources & Industrials | **Calgary** / Toronto / Vancouver | **$68–102K** | Rolling · **posted Feb 3 — 6 mo old** | Asks for **"1–3 years cumulative experience in a high-performance work environment and/or strategy consulting"** — squarely your band. MBA *preferred but not required*. Wants structured problem-solving in ambiguity, financial and business-case analysis, executive synthesis — maps onto JDC West, FCC design sprints and CEO briefs, and TD. **Requires a cover letter or the application is incomplete.** | [Apply](https://careers.deloitte.ca/job/ConsultantSenior-Consultant-Energy%2C-Resources-&Industrials-Monitor-Deloitte/132001-en_US) |
+| **Lightspeed** | Strategy Analyst | Montreal | — | Rolling · **posted Aug 1 — freshest** | 1–3 yrs listed under *"Even Better If You Have, But Not Necessary."* **English is the stated requirement; French is not.** Equity + pension. | [Apply](https://jobs.realventures.com/companies/quotemachine/jobs/88334889-strategy-analyst) |
+| **Forum Ventures** | Investment Analyst, Accelerator | Toronto / Remote | **CA$80–100K** + carry | Rolling · no date shown | Accelerator-side role — the closest match to Cultivator incubator experience. | [Apply](https://www.forumvc.com/careers?ashby_jid=89c1f503-8a88-42b9-8e04-862665505493) |
+| **EY-Parthenon** ⚠️ | Consultant, Strategy & Execution — Deal Management | Toronto / Vancouver / Montreal | **$88–108K** | ⏰ **Closes Oct 1, 2026** | Strategy consulting at EY's strategy arm. Deal/M&A flavour — integrations, carve-outs, synergy tracking. The only role here with a published deadline. See the caveat below. | [Apply](https://careers.ey.com/ey/job/Toronto-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Toronto%29-ON-M5H-0B3/1285426601/) |
+| **Thin Air Labs** | Delivery Support Specialist, Funding Catalyst | Calgary | — | Rolling · no date shown | **Bachelor's + 1–2 yrs.** Grant and non-dilutive funding work at a Calgary VC/advisory firm. | [Apply](https://www.thinairlabs.ca/careers/delivery-support-specialist) |
+| **Viggle** | Growth & Community Intern | Toronto | — | Rolling · posted ~Jul 30 | AI/ML video company (Golden Ventures, Series A). Growth + community in one role. | [Apply](https://jobs.ashbyhq.com/viggle/1d3c72e6-2e2c-4c70-9483-95c25fad394b) |
+| **Wealthsimple** | Growth Engagement Specialist (12-mo contract) | Remote, Canada | CA$69.6–87K | Rolling · no date shown | Growth + engagement in the marketing org at a top Canadian fintech. | [Apply](https://jobs.ashbyhq.com/wealthsimple/05d8dc58-a9c6-4a2f-96e9-014253b5de69) |
 
 ---
 
@@ -46,12 +89,12 @@ The one campus role that did match a 2026 graduation — **Monitor Deloitte's Qu
 
 **Your open lane is the rolling experienced-hire track**, which doesn't run on an academic calendar. Both roles below sit there. Don't wait on campus postings that structurally exclude you.
 
-| Firm | Role | City | Exp. | Salary | Notes | Apply |
-|------|------|------|------|--------|-------|:-----:|
-| Monitor Deloitte | Consultant — Energy, Resources & Industrials | Calgary (primary), Toronto, Vancouver | **1–3 yrs** | $68–102K | Permanent, hybrid. **Cover letter mandatory.** No grad-year gate. | [Apply](https://careers.deloitte.ca/job/ConsultantSenior-Consultant-Energy%2C-Resources-&Industrials-Monitor-Deloitte/132001-en_US) |
-| EY-Parthenon ⚠️ | Consultant, Strategy & Execution — Deal Management | Toronto | ~3 yrs preferred | $88–108K | Valid through Oct 1, 2026 | [Apply](https://careers.ey.com/ey/job/Toronto-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Toronto%29-ON-M5H-0B3/1285426601/) |
-| EY-Parthenon ⚠️ | Consultant, Strategy & Execution — Deal Management | Vancouver | ~3 yrs preferred | $88–108K | Same req, different office | [Apply](https://careers.ey.com/ey/job/Vancouver-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Vancouver%29-Brit-V6E-4E5/1285568601/) |
-| EY-Parthenon ⚠️ | Consultant, Strategy & Execution — Deal Management | Montreal | ~3 yrs preferred | $88–108K | Same req, different office | [Apply](https://careers.ey.com/ey/job/Montr%C3%A9al-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Montreal%29-Queb-H3A-0A8/1286470201/) |
+| Firm | Role | City | Exp. | Salary | **Deadline** | Notes | Apply |
+|------|------|------|------|--------|--------------|-------|:-----:|
+| Monitor Deloitte | Consultant — Energy, Resources & Industrials | Calgary (primary), Toronto, Vancouver | **1–3 yrs** | $68–102K | None — rolling *(posted Feb 3, 2026)* | Permanent, hybrid. **Cover letter mandatory.** No grad-year gate. | [Apply](https://careers.deloitte.ca/job/ConsultantSenior-Consultant-Energy%2C-Resources-&Industrials-Monitor-Deloitte/132001-en_US) |
+| EY-Parthenon ⚠️ | Consultant, Strategy & Execution — Deal Management | Toronto | ~3 yrs preferred | $88–108K | ⏰ **Oct 1, 2026** | Posted Jul 26 | [Apply](https://careers.ey.com/ey/job/Toronto-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Toronto%29-ON-M5H-0B3/1285426601/) |
+| EY-Parthenon ⚠️ | Consultant, Strategy & Execution — Deal Management | Vancouver | ~3 yrs preferred | $88–108K | ⏰ **Oct 1, 2026** | Same req, separate office posting | [Apply](https://careers.ey.com/ey/job/Vancouver-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Vancouver%29-Brit-V6E-4E5/1285568601/) |
+| EY-Parthenon ⚠️ | Consultant, Strategy & Execution — Deal Management | Montreal | ~3 yrs preferred | $88–108K | ⏰ **Oct 1, 2026** | Same req, separate office posting | [Apply](https://careers.ey.com/ey/job/Montr%C3%A9al-Consultant%2C-Strategy-and-Execution-Deal-Management-%28Montreal%29-Queb-H3A-0A8/1286470201/) |
 
 > **⚠️ EY-Parthenon caveat.** The qualifications list professional certifications — *"CPA, CMA, CFA, PMP, CMC, or have achieved the necessary hours but not yet received the designation."* It's ambiguous whether zero designation progress screens you out. Worth applying anyway given the salary and the three-city spread, but go in aware. It also asks for ~3 years against your ~2.
 
@@ -250,6 +293,8 @@ Verified rows carry the date they were checked. **Re-verify anything older than 
 
 **For campus and new-grad postings, always re-read the stated graduation year.** Firms roll these to the next class without notice and the replacement looks nearly identical. This is the single most common way a listing here goes stale while still appearing live.
 
+**On each refresh, re-check the Deadlines & Timing section first.** A published deadline that has passed is the cheapest possible removal — no scraping needed, just arithmetic. Then work down the freshness table: the oldest rolling reqs are the likeliest to have quietly closed.
+
 **Never trust an aggregator.** Indeed, Glassdoor, Built In, and Communitech's Work In Tech board have all served postings that were closed or absent from the employer's own ATS. Communitech's board in particular mirrors roles that no longer appear in the primary system.
 
 **Scrapeability, for future refreshes:**
@@ -260,7 +305,11 @@ Verified rows carry the date they were checked. **Re-verify anything older than 
 
 ## ⭐ Contributing
 
-Found a role? Open an issue or PR with company, title, location, experience level, **a direct link to the posting**, and the date. Career-page links belong in Search These Boards — never in a Verified table.
+Found a role? Open an issue or PR with company, title, location, experience level, **a direct link to the posting**, the **posting date**, and the **application deadline if one is published**. If no deadline is stated, say "rolling" rather than leaving it blank — blank reads as unchecked.
+
+Career-page links belong in Search These Boards — never in a Verified table.
+
+**Where to find dates when they aren't visible on the page:** many ATS platforms embed them in structured metadata even when the rendered page doesn't show them. EY's SuccessFactors pages carry `datePosted` and `validThrough`; Greenhouse, Ashby, and Getro boards usually expose a posted date in the listing view. That's how the Oct 1 EY deadline here was confirmed.
 
 ---
 
